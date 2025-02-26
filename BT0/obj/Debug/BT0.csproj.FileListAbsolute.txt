@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\BT0\BT0\bin\Debug\BT0.exe.config
+C:\Users\LENOVO\source\repos\BT0\BT0\bin\Debug\BT0.exe
+C:\Users\LENOVO\source\repos\BT0\BT0\bin\Debug\BT0.pdb
+C:\Users\LENOVO\source\repos\BT0\BT0\obj\Debug\BT0.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BT0\BT0\obj\Debug\BT0.Form1.resources
+C:\Users\LENOVO\source\repos\BT0\BT0\obj\Debug\BT0.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\BT0\BT0\obj\Debug\BT0.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\BT0\BT0\obj\Debug\BT0.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BT0\BT0\obj\Debug\BT0.exe
+C:\Users\LENOVO\source\repos\BT0\BT0\obj\Debug\BT0.pdb
